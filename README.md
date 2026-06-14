@@ -17,7 +17,7 @@ cd viper
 
 ### 2. Create a JavaScript File
 
-Create a file named `index.js`:
+Create a file named `script.js`:
 
 ```javascript
 console.log("Hello from Viper!");
@@ -26,7 +26,7 @@ console.log("Hello from Viper!");
 ### 3. Run the Interpreter
 
 ```bash
-python main.py index.js
+python main.py script.js
 ```
 
 ### Output
