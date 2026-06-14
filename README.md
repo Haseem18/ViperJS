@@ -6,6 +6,40 @@ Viper JS accepts JavaScript code from a `.js` file, parses it, executes it, and 
 
 ---
 
+## 🚀 How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone <repository-url>
+cd viper
+```
+
+### 2. Create a JavaScript File
+
+Create a file named `index.js`:
+
+```javascript
+console.log("Hello from Viper!");
+```
+
+### 3. Run the Interpreter
+
+```bash
+python main.py index.js
+```
+
+### Output
+
+```text
+Hello from Viper!
+```
+
+### Requirements
+
+- Python 3.x
+- Zero external libraries required
+
 ## Features
 
 ### Variables
