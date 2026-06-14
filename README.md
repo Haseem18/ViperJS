@@ -322,25 +322,6 @@ JavaScript Source Code
 
 ---
 
-## How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone <repository-url>
-cd <repository-folder>
-```
-
----
-
-### 2. Create a JavaScript File
-
-Example: `main.js`
-
-```javascript
-console.log("Hello, World!");
-```
-
 ---
 
 ### 3. Run the Interpreter
